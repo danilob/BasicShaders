@@ -1,0 +1,9 @@
+mapeamento:
+
+negx -> back
+negy -> down
+negz -> left
+
+posx -> front
+posy -> up
+posz -> right
